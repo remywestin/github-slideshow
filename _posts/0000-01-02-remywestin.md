@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Software is eating the world"
+
 Use the left arrow to go back!
